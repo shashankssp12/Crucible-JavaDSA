@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Java1_1ArrayAsFunction{
+public class Java1_01ArrayAsFunction{
     
     public static int[] inputArr(){
         Scanner sc = new Scanner(System.in);
